@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Sèrge 👋
+
+![Static Badge](https://img.shields.io/badge/I_still_dont_know-why_I_love_coding-purple?logo=apple&logoColor=black&logoSize=auto&labelColor=orange)
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kovallux&theme=monokai)
+
+[![Sergii Koval profile views](https://u8views.com/api/v1/github/profiles/3957568/views/day-week-month-total-count.svg)](https://u8views.com/github/kovallux)
+
+[![Serge's GitHub stats](https://github-readme-stats.vercel.app/api?username=kovallux)](https://github.com/kovallux/github-readme-stats)
+
+[![Serge's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kovallux)](https://github.com/kovallux/github-readme-activity-graph)
 
 <!--
 **kovallux/kovallux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
